@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+# p2p-wq
+p2p 平台跑路、诈骗等损害投资人利益行为的维权指引。
 
-You can use the [editor on GitHub](https://github.com/p2pweiquan/p2pweiquan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---------
+爱钱帮 -- 维权
+---------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+黄金时间段是事发后```两周```，这段时间要集中火力向平台相关负责人开火，包括举报、投诉、请求媒体报道等方法来防止责任人玩失踪，大力支持大户和现场难友的同时扩大社会的关注。
+任何责任人除了给出可行、快速的赔偿方案，其他的言辞都不要信，极高的可能性是缓兵之计，我们只让他们负责，不能让他们转移和淡化问题，另外不要轻信托的言语，一个问题在没有得到政府机关部门的确定答复之前不要放弃停止追究（包括是否立案，要立案号，是否控制了责任人），别人告诉你的答复，可能是托在混淆视听。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 现场维权（唯一有效果的办法）
 
-```markdown
-Syntax highlighted code block
+约定时间，凑 1000 人去政府机关部门现场情愿维权。请政府机关介入和监督。不是去闹事，是去拉横幅和平情愿
 
-# Header 1
-## Header 2
-### Header 3
+现场维权计划
+（人越多越好，大户都在这里集合）
 
-- Bulleted
-- List
+|       序号    |     集合地点    | 集合时间 | 备注
+| ------------- | ------------- | ---------- | ------------- |
+| 1  | 北京市东城区东堂子胡同49号（公安部信访办）  | 2018-07-23 上午 8:30  | 注意戴口罩、帽子、墨镜、遮阳伞和水等用品。横幅+举牌话语：“p2p理财还我血汗钱”、“请政府立案”、“维权到底”、“即使追缴款项”等 |
+| 2  | 北京朝阳区东大桥路9号侨福芳草地C803 (信义公司) | 2018-07-24 上午 9:30| 联系人QQ 452166778，注意戴口罩、帽子、墨镜、遮阳伞和水等用品。横幅+举牌话语：“p2p理财还我血汗钱”、“请政府立案”、“维权到底”、“即使追缴款项”等| 
 
-1. Numbered
-2. List
+## 一些辅助维权途径（每个人都要操作，人多才有效果，支援现场维权的声音）
 
-**Bold** and _Italic_ and `Code` text
+方法途径给出来了，具体怎么操作自己要学习，不要问别人太多的问题，这样会给别人太多的工作压力。如果连学习能力都没有，那维权胜算能有多少！
+这些途径的作用是报案和扩大社会关注，不操作就等于不维权了，所以自己觉得没效果、没作用也不能放弃，政府机关如果不接受举报人的投诉，个人可以保持追究政府机关的不作为的权利，向更高机关投诉，一步一步往上走。
 
-[Link](url) and ![Image](src)
+```
+1、北京市公安局  010110
+2、北京市市长热线 01012345
+3、中国政府网 我向总理说句话 http://www.gov.cn/hudong/xzlwh.htm
+4、北京市公安局 局长信箱 http://www.bjgaj.gov.cn/web/hdpdAction.do?method=jzxx
+5、北京市金融工作局 局长信箱 http://www.bjjrj.gov.cn/jzxx/c125-list-1.html
+6、中国互联网金融举报信息平台 https://jubao.nifa.org.cn/ipnifa/index.html
+7、北京市纪委举报电话01066410872 投诉金融局和互金协会不作为
+8、互联网金融协会违法违规行为投诉 http://www.bjp2p.com.cn/info/tousu
+9、东城区经侦支队，地址：北京市东城区左安门内大街59号。经侦电话，01067165286
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+两周后没效果就采取其他的方式，具体方式后面我想到再写出来，大家也一起来想。
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p2pweiquan/p2pweiquan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 第一步要做的是保存证据
 
-### Support or Contact
+在网站还没有关闭的时间内，截图、下载合同、下载协议、打印绑定卡的流水等等，能搞到的都搞下来，预防平台销毁证据，这些证据都是报案的资料。怎么打印，下载什么？答案：是什么都打，什么都下。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+能去平台公司现场的要第一时间前往，同时报案地 110 让警察到现场，110 不出警可以事后追究 110 不作为责任。同时，向 p2p 监控平台暴光、向群友发出求助信息请求支援。
+
+## 爱钱帮平台相关信息
+
+网站： https://www.iqianbang.com
+管理团队： 陆复斌（董事长）、李青妮（法定代表人）、谭晙晖（副总经理）、张征（CSO）、王少雄（产品负责人）、张宇（风控负责人）、梁素彰（法务负责人）、张扬（技术负责人）
+注册地址： 北京市海淀区北三环中路40号3幢3层3041室
+经营地址： 北京市东城区东四十条南新仓商务大厦B1523
+爱钱帮地址： 北京市东城区东四十条南新仓商务大厦B座1523
+交通： 北京市地铁2号线东四十条站
+全国服务热线： 4006-777-518
+
+## 下面是维权群
+
+维权群里不要聊凄惨、怀疑、抱怨、放弃、顾虑等等没用的话题，否则会被清除，你的维权路将被比自己毁掉。
+群里主要通报维权进展和方法，自己要贡献要学习，维权路没有谁带谁，自己不争取没人会帮我们。
+
+```进去先看公告```，不要进群了问各种没营养的问题。
+
+```
+QQ 群：589288624 群里有各个分区的分群
+QQ 群：827727647 贝多多群
+```
+
+# 要想维权成功，现场维权不能软，辅助维权每天都要操作，损失有多有少，都是血汗钱，人群中总是有沮丧的人和叛变的，不要理会，坚持跟紧大部队，这条路注定漫长，什么都别想，不橹死责任人不能罢休。
+
+
